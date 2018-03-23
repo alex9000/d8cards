@@ -1,0 +1,14 @@
+uuid: 30e5e02f-eebd-4cae-8098-58a4cc0d7e52
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - alex9000@gmail.com
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''

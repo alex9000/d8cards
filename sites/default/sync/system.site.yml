@@ -1,0 +1,14 @@
+uuid: a923449e-37ef-47e7-9df4-2c4281c08ab6
+name: Prod
+mail: alex9000@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
